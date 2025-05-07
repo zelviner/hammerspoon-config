@@ -562,7 +562,7 @@ bindF13Key("right", function() changeWindowLayout("right") end)
 bindF13Key("u", moveWindowNextScreen)
 
 -- 单击shift切换输入法
-clickShiftSwitchInputMethod()
+-- clickShiftSwitchInputMethod()
 
 -- 输入法切换弹窗
 inputMethodSwitchAlert()
